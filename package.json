@@ -1,0 +1,26 @@
+{
+  "name": "learn-webpack-bundler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "node webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoulang27426405/learn-webpack-bundler.git"
+  },
+  "author": "zhoulang@zhuanzhuan.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhoulang27426405/learn-webpack-bundler/issues"
+  },
+  "homepage": "https://github.com/zhoulang27426405/learn-webpack-bundler#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/parser": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/traverse": "^7.4.5"
+  }
+}
